@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+ava_bot.egg-info/PKG-INFO
+ava_bot.egg-info/SOURCES.txt
+ava_bot.egg-info/dependency_links.txt
+ava_bot.egg-info/requires.txt
+ava_bot.egg-info/top_level.txt
